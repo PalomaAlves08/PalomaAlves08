@@ -15,10 +15,10 @@ Apaixonada por tecnologia, aprendizado contínuo e pela construção de soluçõ
 <h2>🎯 Objetivos</h2>
 
 <ul>
-<li>💻 Desenvolver projetos práticos utilizando Python e C++</li>
-<li>🌱 Aprofundar conhecimentos em Engenharia de Software</li>
-<li>🐧 Expandir minhas habilidades em Linux e automação</li>
-<li>📂 Construir um portfólio sólido</li>
+<li>Desenvolver projetos práticos utilizando Python e C++</li>
+<li>Aprofundar conhecimentos em Engenharia de Software</li>
+<li>Expandir minhas habilidades em Linux e automação</li>
+<li>Construir um portfólio sólido</li>
 </ul>
 
 <hr>
@@ -51,20 +51,20 @@ Apaixonada por tecnologia, aprendizado contínuo e pela construção de soluçõ
 
 <table>
 <tr>
-<td>✔️ Autonomia</td>
-<td>✔️ Gestão de Tempo</td>
+<td>Autonomia</td>
+<td>Gestão de Tempo</td>
 </tr>
 <tr>
-<td>✔️ Projeto de Software</td>
-<td>✔️ Trabalho em Equipe</td>
+<td>Projeto de Software</td>
+<td>Trabalho em Equipe</td>
 </tr>
 <tr>
-<td>✔️ Organização</td>
-<td>✔️ Pensamento Lógico</td>
+<td>Organização</td>
+<td>Pensamento Lógico</td>
 </tr>
 <tr>
-<td>✔️ Resolução de Problemas</td>
-<td>✔️ Aprendizado Contínuo</td>
+<td>Resolução de Problemas</td>
+<td>Aprendizado Contínuo</td>
 </tr>
 </table>
 
@@ -80,6 +80,3 @@ Apaixonada por tecnologia, aprendizado contínuo e pela construção de soluçõ
 
 <hr>
 
-<p align="center">
-<i>🌷 "O aprendizado constante transforma conhecimento em oportunidades."</i>
-</p>
